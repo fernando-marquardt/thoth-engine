@@ -1,0 +1,17 @@
+{
+    "name": "thoth/thoth-engine",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fernando Marquardt",
+            "email": "fernando.marquardt@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Thoth\\": "src/"
+        }
+    },
+    "require": {}
+}
